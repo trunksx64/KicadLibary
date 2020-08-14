@@ -1,0 +1,43 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATMEGA8_PDIP
+D 8-bit Atmel with 8KBytes  In-SystemProgrammable Flash
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2486-8-bit-AVR-microcontroller-ATmega8_L_datasheet.pdf
+$ENDCMP
+#
+$CMP ATSAMC21E18A
+D 5-Volt 32-Bit ARM Cortex M0+ MCU with CAN-FD
+F http://ww1.microchip.com/downloads/en/DeviceDoc/SAMC20_C21_%20Family_Data_%20Sheet_DS60001479D.pdf
+$ENDCMP
+#
+$CMP ATSAMC21G18A
+D 5-Volt 32-Bit ARM Cortex M0+ MCU with CAN-FD
+F http://ww1.microchip.com/downloads/en/DeviceDoc/SAMC20_C21_%20Family_Data_%20Sheet_DS60001479D.pdf
+$ENDCMP
+#
+$CMP ATSAMC21J18A
+D 5-Volt 32-Bit ARM Cortex M0+ MCU with CAN-FD
+F http://ww1.microchip.com/downloads/en/DeviceDoc/SAMC20_C21_%20Family_Data_%20Sheet_DS60001479D.pdf
+$ENDCMP
+#
+$CMP PIC18F252_DIP
+D High-Performance, Enhanced FlashMicrocontrollers with 10-Bit A/D
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39564c.pdf
+$ENDCMP
+#
+$CMP PIC18F2550_SPDIP_SOIC
+D High-Performance,Enhanced Flash, USB Microcontrollerswith nanoWatt Technology
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39632e.pdf
+$ENDCMP
+#
+$CMP PIC18F2XK20_SSOP_SPDIP_SOIC
+D 28/40/44-Pin Flash Microcontrollers with XLP Technology
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40001303H.pdf
+$ENDCMP
+#
+$CMP PIC24HJXXXGPX04_TQFP
+D 16-bit Microcontrollers(up to 128 KB Flash and 8K SRAM) with Advanced Analog
+F http://ww1.microchip.com/downloads/en/DeviceDoc/70293G.pdf
+$ENDCMP
+#
+#End Doc Library

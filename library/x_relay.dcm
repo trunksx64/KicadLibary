@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RH-012C
+D 40.31 Form C relay
+K relay 40.31
+F /home/walter/Documenti/Elettronica/DATA_SHEET/Elettromeccanici/Relais/FINDER_40.x1.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CA3130
+D BiMOS Operational Amplifier with MOSFET Input/CMOS Output
+$ENDCMP
+#
+$CMP L298
+D DUAL FULL-BRIDGE DRIVER
+$ENDCMP
+#
+$CMP LM2576S
+D Step-Down Voltage Regulator
+$ENDCMP
+#
+$CMP MCP73831
+D Li-Ion, Li-Polymer Charge Management Controllers
+$ENDCMP
+#
+$CMP TPS54231
+D Step-DownDC-DC
+$ENDCMP
+#
+$CMP TPS562210A
+D Step-DownVoltageRegulator
+$ENDCMP
+#
+#End Doc Library
